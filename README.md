@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahika07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web development and java
+- 👀 I’m interested in MERN Full Stack Development
+- 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- mail me on mahikasharma@0007gmail.com
 
